@@ -1,0 +1,5 @@
+{
+  "name": "websockethub",
+  "description": "A barebones Node.js websocket hub",
+  "repository": "https://github.com/leahciMic/websockethub"
+}
